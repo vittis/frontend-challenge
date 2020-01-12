@@ -1,5 +1,9 @@
 @import "tailwindcss/base";
-@import "./base";
+
+// Overwrite tailwind base styles
+@import 
+    'base/typography', 
+    'base/heading';
 
 @import "tailwindcss/components";
 /* @import "./custom-components.css"; */
