@@ -14,6 +14,7 @@ module.exports = {
     },
     colors: {
       primary: '#5D1EB2',
+      secondary: '#FF223E',
       dark: '#561CA6',
 
       transparent: 'transparent',
@@ -251,9 +252,9 @@ module.exports = {
       xl: '1.25rem',
       '2xl': '1.5rem',
       '3xl': '1.875rem',
-      '4xl': '2.25rem',
+      '4xl': '2.4rem',
       '5xl': '3rem',
-      '6xl': '4rem',
+      '6xl': '5rem',
     },
     fontWeight: {
       hairline: '100',

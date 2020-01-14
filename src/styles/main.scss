@@ -3,7 +3,8 @@
 // Overwrite tailwind base styles
 @import 
     'base/typography', 
-    'base/heading';
+    'base/heading',
+    'base/base';
 
 @import "tailwindcss/components";
 /* @import "./custom-components.css"; */

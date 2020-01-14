@@ -2,8 +2,6 @@ import React from 'react';
 import logoSymbol from '../../assets/images/logo-symbol.svg';
 import logoType from '../../assets/images/logo-type.svg';
 
-import './navbar.scss';
-
 function Navbar() {
   return (
     <nav className="bg-dark sm:bg-primary shadow sm:shadow-none py-4 sm:py-8">
